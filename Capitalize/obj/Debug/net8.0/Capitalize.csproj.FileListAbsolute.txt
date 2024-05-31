@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\Capitalize\bin\Debug\net8.0\Capitalize.exe
+C:\Users\oktay\source\repos\Capitalize\bin\Debug\net8.0\Capitalize.deps.json
+C:\Users\oktay\source\repos\Capitalize\bin\Debug\net8.0\Capitalize.runtimeconfig.json
+C:\Users\oktay\source\repos\Capitalize\bin\Debug\net8.0\Capitalize.dll
+C:\Users\oktay\source\repos\Capitalize\bin\Debug\net8.0\Capitalize.pdb
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.AssemblyInfo.cs
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.dll
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\refint\Capitalize.dll
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.pdb
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\Capitalize.genruntimeconfig.cache
+C:\Users\oktay\source\repos\Capitalize\obj\Debug\net8.0\ref\Capitalize.dll

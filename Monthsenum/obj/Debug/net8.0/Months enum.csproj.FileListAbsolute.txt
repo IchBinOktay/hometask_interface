@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\Months enum\bin\Debug\net8.0\Months enum.exe
+C:\Users\oktay\source\repos\Months enum\bin\Debug\net8.0\Months enum.deps.json
+C:\Users\oktay\source\repos\Months enum\bin\Debug\net8.0\Months enum.runtimeconfig.json
+C:\Users\oktay\source\repos\Months enum\bin\Debug\net8.0\Months enum.dll
+C:\Users\oktay\source\repos\Months enum\bin\Debug\net8.0\Months enum.pdb
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.AssemblyInfo.cs
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.dll
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\refint\Months enum.dll
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.pdb
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\Months enum.genruntimeconfig.cache
+C:\Users\oktay\source\repos\Months enum\obj\Debug\net8.0\ref\Months enum.dll

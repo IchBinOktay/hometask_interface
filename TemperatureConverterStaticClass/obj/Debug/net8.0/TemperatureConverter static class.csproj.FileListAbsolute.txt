@@ -1,0 +1,14 @@
+C:\Users\oktay\source\repos\TemperatureConverter static class\bin\Debug\net8.0\TemperatureConverter static class.exe
+C:\Users\oktay\source\repos\TemperatureConverter static class\bin\Debug\net8.0\TemperatureConverter static class.deps.json
+C:\Users\oktay\source\repos\TemperatureConverter static class\bin\Debug\net8.0\TemperatureConverter static class.runtimeconfig.json
+C:\Users\oktay\source\repos\TemperatureConverter static class\bin\Debug\net8.0\TemperatureConverter static class.dll
+C:\Users\oktay\source\repos\TemperatureConverter static class\bin\Debug\net8.0\TemperatureConverter static class.pdb
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.AssemblyInfoInputs.cache
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.AssemblyInfo.cs
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.csproj.CoreCompileInputs.cache
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.dll
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\refint\TemperatureConverter static class.dll
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.pdb
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\TemperatureConverter static class.genruntimeconfig.cache
+C:\Users\oktay\source\repos\TemperatureConverter static class\obj\Debug\net8.0\ref\TemperatureConverter static class.dll
